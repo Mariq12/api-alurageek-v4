@@ -1,0 +1,20 @@
+{
+  "name": "api-alurageek",
+  "version": "1.0.0",
+  "description": "api para challenge aluraGeek",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mariq12/api-alurageek"
+  },
+  "author": "Flor María Labanda Puchaicela",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
